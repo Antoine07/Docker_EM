@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",                                  
+    "module": "commonjs",                                 
+    //"moduleResolution": "bundler",                    
+    "outDir": "./dist",                                  
+    "esModuleInterop": true,                             
+    "strict": true,                                      
+    "skipLibCheck": true                                
+  },
+  "include": ["src/app.ts", "src/**/*.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "api/mongo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antoine"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.17",
+        "symfony/http-foundation": "^7.0"
+    }
+}
