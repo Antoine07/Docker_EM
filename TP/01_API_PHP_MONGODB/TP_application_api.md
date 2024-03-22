@@ -303,14 +303,6 @@ Retourne le nombre total de restaurants au format JSON.
   }
 ```
 
-## Moyenne des scores par quartier
-
-### Endpoint
-GET /index.php?api=averageByBorough
-
-### Réponse
-Retourne le nombre total de restaurants au format JSON.
-
 ## Coffee restaurants
 
 ### Endpoint
